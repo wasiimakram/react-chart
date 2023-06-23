@@ -10,10 +10,10 @@ This is a React application that displays an interactive chart using ECharts.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/react-chart-app.git
+   git clone https://github.com/wasiimakram/react-chart.git
 
 2.Navigate to the project directory:
-  cd react-chart-app
+  cd react-chart
 
 3.Install the dependencies:
   npm install
