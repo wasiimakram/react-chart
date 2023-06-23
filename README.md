@@ -1,6 +1,7 @@
 # React Chart Application
 
 This is a React application that displays an interactive chart using ECharts.
+Tooltip with colors and Zoom feature is also included.
 
 
 ## Getting Started
